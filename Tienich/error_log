@@ -1,0 +1,940 @@
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[12-Jul-2019 16:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[20-Aug-2019 09:31:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 138
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 139
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 148
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 149
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): Access denied for user 'nhngubq7'@'localhost' (using password: NO) in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_query(): A link to the server could not be established in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 199
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 200
+[20-Aug-2019 09:37:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:20:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:20:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:20:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:24:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:27:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:28:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:28:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:29:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:29:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:29:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:29:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:29:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:30:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:30:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:30:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:30:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:31:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:31:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:31:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:31:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 10:31:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 10:32:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:32:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:32:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 10:32:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 10:32:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:32:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:33:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:33:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:33:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:34:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:34:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:34:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:34:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 10:34:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 10:35:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:35:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:35:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 10:35:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 10:35:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:35:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:35:59 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:36:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:36:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:36:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:37:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 10:41:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 11:44:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[14-Jul-2020 13:46:09 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 13:46:11 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:01:56 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[14-Jul-2020 15:02:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:03:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:06:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:06:38 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[14-Jul-2020 15:07:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:07:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:07:32 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[14-Jul-2020 15:08:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:09:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:10:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:10:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:10:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:10:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:11:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:11:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:11:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:11:36 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[14-Jul-2020 15:12:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 16
+[14-Jul-2020 15:12:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:12:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:12:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:12:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:13:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:13:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:13:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:13:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:14:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:14:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:14:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:16:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:16:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:17:04 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:17:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:17:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:17:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:17:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:17:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:18:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:18:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:18:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:18:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:18:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:18:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:19:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:19:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:19:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:19:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:19:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:20:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:20:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:20:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:20:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:21:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:21:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:21:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:21:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:22:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:22:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:22:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:22:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:22:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:22:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:23:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:23:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:23:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:23:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:23:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:23:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:24:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:24:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:25:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:25:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:26:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:26:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:27:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:27:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:29:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:30:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:31:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:31:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:31:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:31:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:31:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:32:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:32:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:32:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:32:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:32:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:32:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:32:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:32:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:35:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:35:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:35:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:36:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:37:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:38:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:38:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:39:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:39:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:39:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:39:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:39:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:39:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:40:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:40:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:40:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:40:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:40:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:41:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:42:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:43:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:43:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:43:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:44:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:44:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:44:26 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:44:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:44:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:44:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:45:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:45:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:45:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:45:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:45:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:45:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:45:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:45:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:46:09 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:46:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:46:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 15:46:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:46:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:46:47 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:46:48 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:47:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:47:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:48:11 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[14-Jul-2020 15:53:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 16
+[14-Jul-2020 15:53:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_query(): Empty query in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 163
+[14-Jul-2020 15:53:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/XuatExcel.php on line 164
+[14-Jul-2020 17:19:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[18-Jul-2020 00:32:44 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[18-Jul-2020 00:32:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[18-Jul-2020 00:32:45 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[27-Jul-2020 16:27:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[27-Jul-2020 16:30:02 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[27-Jul-2020 16:30:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[07-Oct-2020 08:13:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Feb-2021 10:18:32 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Feb-2021 10:20:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Feb-2021 10:22:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Feb-2021 10:23:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Feb-2021 10:23:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Feb-2021 10:23:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Feb-2021 10:24:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Feb-2021 10:25:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[13-Aug-2021 09:38:00 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[13-Aug-2021 15:40:27 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[14-Apr-2022 14:06:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Apr-2022 14:26:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Apr-2022 14:31:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Apr-2022 14:32:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Apr-2022 14:33:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Apr-2022 14:33:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[25-Apr-2022 14:36:58 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[26-Apr-2022 14:00:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[26-Apr-2022 14:02:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[26-Apr-2022 14:08:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[26-Apr-2022 15:29:16 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[26-Apr-2022 15:37:40 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 08:31:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:20:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[28-Apr-2022 09:20:49 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:24:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:24:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:36:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:37:05 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:39:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:46:57 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 09:47:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:09:13 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:09:19 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:31:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:31:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:35:18 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:35:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:43:31 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:43:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:51:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 10:51:43 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:08:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:08:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:10:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:10:50 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:12:46 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:12:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:18:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:18:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:19:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:20:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:24:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 11:25:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 15:37:41 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[28-Apr-2022 15:37:59 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[28-Apr-2022 16:16:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[29-Apr-2022 14:57:39 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[29-Apr-2022 14:59:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[29-Apr-2022 15:04:22 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[29-Apr-2022 15:43:37 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[29-Apr-2022 15:45:21 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[29-Apr-2022 16:45:52 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[04-May-2022 09:47:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[04-May-2022 10:00:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[04-May-2022 10:00:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[04-May-2022 10:02:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[04-May-2022 10:04:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: user_id in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 8
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 1 in /home/nhngubq7/public_html/bacgiang/Main/header.php on line 57
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 6
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 107
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 114
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 122
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 130
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 163
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 170
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 183
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 196
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 219
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 237
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 255
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 273
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 287
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 294
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 312
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 330
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 343
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 350
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 358
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 376
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 394
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 401
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 465
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 635
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 648
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 704
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 711
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 718
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 725
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 732
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 739
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 22 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 751
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 766
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 3 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 782
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 4 in /home/nhngubq7/public_html/bacgiang/Main/menu.php on line 794
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[04-May-2022 10:53:23 Asia/Ho_Chi_Minh] PHP Notice:  Uninitialized string offset: 0 in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 81
+[04-May-2022 11:19:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[04-May-2022 11:23:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[04-May-2022 11:29:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[05-May-2022 09:57:24 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[05-May-2022 10:04:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[05-May-2022 10:15:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 13:47:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 13:50:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 13:51:51 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 13:54:07 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 14:01:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 14:03:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 14:06:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 14:21:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 14:29:29 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[12-May-2022 14:34:41 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[13-May-2022 15:53:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[13-May-2022 16:00:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[13-May-2022 16:03:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 15:59:27 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:00:59 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:02:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:04:15 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:05:35 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:07:52 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:08:38 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:10:34 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:11:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:11:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:12:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[16-May-2022 16:13:33 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[17-May-2022 15:03:55 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[17-May-2022 15:05:10 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
+[17-May-2022 16:02:54 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/nhngubq7/public_html/bacgiang/Tienich/ThoaiXuatExcel.php on line 52
